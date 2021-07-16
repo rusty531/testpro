@@ -10,5 +10,7 @@ public class MyChartJsonController {
 	public String chartTest() {
 		return "mychart";
 	}
+	
+	// 주석주석
 
 }
